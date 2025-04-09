@@ -1,5 +1,6 @@
 {
     "name": "farm_asset_pack",
+    "version": "0.0.1",
     "description": "An asset pack for MakeCode Arcade",
     "dependencies": {
         "device": "*"
